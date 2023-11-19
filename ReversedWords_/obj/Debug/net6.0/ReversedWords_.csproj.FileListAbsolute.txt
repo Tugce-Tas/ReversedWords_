@@ -1,0 +1,15 @@
+E:\Development\ReversedWords_\ReversedWords_\bin\Debug\net6.0\ReversedWords_.exe
+E:\Development\ReversedWords_\ReversedWords_\bin\Debug\net6.0\ReversedWords_.deps.json
+E:\Development\ReversedWords_\ReversedWords_\bin\Debug\net6.0\ReversedWords_.runtimeconfig.json
+E:\Development\ReversedWords_\ReversedWords_\bin\Debug\net6.0\ReversedWords_.dll
+E:\Development\ReversedWords_\ReversedWords_\bin\Debug\net6.0\ReversedWords_.pdb
+E:\Development\ReversedWords_\ReversedWords_\obj\Debug\net6.0\ReversedWords_.csproj.AssemblyReference.cache
+E:\Development\ReversedWords_\ReversedWords_\obj\Debug\net6.0\ReversedWords_.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\ReversedWords_\ReversedWords_\obj\Debug\net6.0\ReversedWords_.AssemblyInfoInputs.cache
+E:\Development\ReversedWords_\ReversedWords_\obj\Debug\net6.0\ReversedWords_.AssemblyInfo.cs
+E:\Development\ReversedWords_\ReversedWords_\obj\Debug\net6.0\ReversedWords_.csproj.CoreCompileInputs.cache
+E:\Development\ReversedWords_\ReversedWords_\obj\Debug\net6.0\ReversedWords_.dll
+E:\Development\ReversedWords_\ReversedWords_\obj\Debug\net6.0\refint\ReversedWords_.dll
+E:\Development\ReversedWords_\ReversedWords_\obj\Debug\net6.0\ReversedWords_.pdb
+E:\Development\ReversedWords_\ReversedWords_\obj\Debug\net6.0\ReversedWords_.genruntimeconfig.cache
+E:\Development\ReversedWords_\ReversedWords_\obj\Debug\net6.0\ref\ReversedWords_.dll
